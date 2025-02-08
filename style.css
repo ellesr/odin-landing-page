@@ -55,6 +55,11 @@ button {
     max-width: 200px;
 }
 
+.card img {
+    border-radius: 8px;
+    border: 4px solid #3882f6;
+}
+
 h2 {
     text-align: center;
     padding: 25px;
