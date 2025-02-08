@@ -112,9 +112,10 @@ h2 {
     display: flex;
     justify-content: space-around;
     background-color: #3882f6;
-    margin: 50px 100px;
+    margin: 50px auto;
     border-radius: 8px;
     border: 1px solid #3882f6;
+    width: 650px;
 }
 
 h4, #call {
