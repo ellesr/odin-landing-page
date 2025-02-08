@@ -110,10 +110,12 @@ h4, #call {
 
 h4 {
     margin-bottom: 0px;
+    margin-top: 32px;
 }
 
 #call {
     margin-top: 0px;
+    font-size: 14px;
 }
 
 .footer {
