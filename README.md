@@ -1,1 +1,2 @@
 # odin-landing-page
+This landing page showcases the web development skills I have acquired until now throughout the Odin Project, with a focus on using Flexbox to format elements. This is only the beginning!
