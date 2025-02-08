@@ -31,6 +31,10 @@ a {
     flex-direction: column;
 }
 
+.container-1 p {
+    color: #ccd9ec
+}
+
 button {
     background: #3882f6;
     color: white;
@@ -70,7 +74,7 @@ h1 {
     max-width: 200px;
 }
 
-.card img {
+.classroom, .card img {
     border-radius: 8px;
     border: 4px solid #3882f6;
 }
