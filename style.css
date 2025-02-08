@@ -8,7 +8,7 @@ body {
     background-color: #1f2937;
     padding: 16px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -39,8 +39,17 @@ button {
     padding: 8px 16px;
 }
 
+.header {
+    padding: 20px 80px;
+}
+
 .header-2 {
     gap: 16px;
+    padding: 0px 80px 50px 80px;
+}
+
+h1 {
+    margin: 0;
 }
 
 .container-2 {
