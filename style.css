@@ -86,3 +86,31 @@ h2 {
     color: #1f2937;
     padding: 0px 100px 100px 100px;
 }
+
+.container-3 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    margin: 50px 100px;
+    border-radius: 8px;
+    border: 1px solid #3882f6;
+}
+
+h4, #call {
+    color: white;
+}
+
+.container-3 button {
+    background: #3882f6;
+    border-radius: 8px;
+    border: 1px solid #ffffff;
+    margin: 32px 0px;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+#call {
+    margin-top: 0px;
+}
