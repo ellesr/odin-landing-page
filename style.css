@@ -46,6 +46,7 @@ button {
 .container-2 {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 52px;
     margin-bottom: 50px;
 }
